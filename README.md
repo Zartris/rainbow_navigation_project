@@ -46,6 +46,8 @@ It is also written as python classes if that suits you better, but I will only g
 
 ### Notes.
 
-Through this implementation I have seeked guidance through others implementation of the different techniques used, and create my own implementation specific to solve the navigation project.
+Through this implementation I have seeked guidance through others implementation of the different techniques used [rainbow is all you need]( https://github.com/Curt-Park/rainbow-is-all-you-need ), and create my own implementation specific to solve the navigation project.
 To learn the affect of each implementation I found the [README](https://github.com/KaplanAlex/rl-sonic/blob/master/README.md ) from KaplanAlex where good and I learned a lot from his small summary.
+
+I have commented the code well to show understanding of the subject as well as notes to future me.
 
