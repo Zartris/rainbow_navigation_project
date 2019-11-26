@@ -44,3 +44,8 @@ The task is episodic, and in order to solve the environment, your agent must get
 Follow the instructions in `rainbow.ipynb` either train or test the solution!
 It is also written as python classes if that suits you better, but I will only go into details with the `rainbow.ipynb`.
 
+### Notes.
+
+Through this implementation I have seeked guidance through others implementation of the different techniques used, and create my own implementation specific to solve the navigation project.
+To learn the affect of each implementation I found the [README](https://github.com/KaplanAlex/rl-sonic/blob/master/README.md ) from KaplanAlex where good and I learned a lot from his small summary.
+
