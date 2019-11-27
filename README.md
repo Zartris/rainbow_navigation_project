@@ -50,6 +50,8 @@ I have created a better solution for the project that will solve it in less than
 The hyper-parameters for this project needs to be tuned further to improve the max average result over 100 episodes.
 As the hyper-parameters are set now, it will evens out around an average of 13. 
 
+I will recomment reading the report.pdf for better understanding of the rainbow implementation and look through the comments in the code. It should be fairly well commented.
+
 ### Notes.
 
 Through this implementation I have seeked guidance through others implementation of the different techniques used [rainbow is all you need]( https://github.com/Curt-Park/rainbow-is-all-you-need ), and create my own implementation specific to solve the navigation project.
