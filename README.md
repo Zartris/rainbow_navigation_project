@@ -44,6 +44,12 @@ The task is episodic, and in order to solve the environment, your agent must get
 Follow the instructions in `rainbow.ipynb` either train or test the solution!
 It is also written as python classes if that suits you better, but I will only go into details with the `rainbow.ipynb`.
 
+### Results
+While the results are not optimal, it will solve the problem in around 300 episodes.
+I have created a better solution for the project that will solve it in less than 160 episodes, but it is not a rainbow implementation.
+The hyper-parameters for this project needs to be tuned further to improve the max average result over 100 episodes.
+As the hyper-parameters are set now, it will evens out around an average of 13. 
+
 ### Notes.
 
 Through this implementation I have seeked guidance through others implementation of the different techniques used [rainbow is all you need]( https://github.com/Curt-Park/rainbow-is-all-you-need ), and create my own implementation specific to solve the navigation project.
